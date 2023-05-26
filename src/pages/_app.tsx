@@ -1,3 +1,4 @@
+import "@masa-finance/masa-react/dist/css/styles.css";
 import "@/styles/globals.css";
 import type { AppProps } from "next/app";
 import { MasaProvider } from "@masa-finance/masa-react";

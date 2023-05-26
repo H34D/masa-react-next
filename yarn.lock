@@ -1576,10 +1576,10 @@
   dependencies:
     ethers "~5.7.2"
 
-"@masa-finance/masa-react@^2.2.1":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@masa-finance/masa-react/-/masa-react-2.2.1.tgz#2acfb412f6234d6acf1cfc31845d29621c46998b"
-  integrity sha512-30h7sNvlalSaoBLCKidp6bOrHtNPfIW/eARl5ddYeyfqr8goeShcjPlZwcUXGbFlZTfUmgXsH0x6PHsn+L3rhA==
+"@masa-finance/masa-react@^2.2.7":
+  version "2.2.7"
+  resolved "https://registry.yarnpkg.com/@masa-finance/masa-react/-/masa-react-2.2.7.tgz#8b562b2b155dd91ffe8a56a45a74e1a40dab5cdf"
+  integrity sha512-tslrbB5Mn4LUX6Nk8vlw8KfPSeYXagB0igRClfrdRCjQXZGBDGq0DWXYEwbIgBXHf/qxA8be9fX1tdDzznXhIA==
   dependencies:
     "@acusti/react-code-input" "^3.11.0"
     "@babel/preset-typescript" "^7.21.5"
